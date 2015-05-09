@@ -1,4 +1,4 @@
-Project intended for Code Challenge for sample service. 
+Project intended for sample web service. 
 
 Project based on Maven + Jersey + jquery + json style.
 
